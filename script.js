@@ -1,4 +1,4 @@
-var passwords = ['youarebeingwatched', 'thedarkwebhasyourdata', , 'iknowyouarehaifa' ];
+var passwords = ['youarebeingwatched', 'thedarkwebhasyourdata', , 'iknowyouare' ];
 var indexOld;
 var index = Math.floor((Math.random() * passwords.length));
 var password = passwords[index];
